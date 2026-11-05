@@ -16,13 +16,6 @@ Developed for the *Business Intelligence & Decision Support Systems* curriculum 
 
 ##  Project Structure & Domains
 
-```
-Business-Intelligence-Multiplatform-Analytics/
-├── Qlik_Sense/     # Associative modeling, K-Means environmental clustering, accident severity
-├── Tableau/        # VizQL dashboards, weekly/monthly forecasting models, roadway dynamics
-├── Power_BI/       # Star schema modeling, DAX measures, US car sales & seller performance
-└── docs/           # Relazione_BusinessIntelligence.pdf (Full 81-page technical report)
-```
 
 The study investigates two large-scale real-world datasets:
 1. **US Traffic Accidents Dataset (>209,000 records, 24 attributes):** Investigated in **Qlik Sense** and **Tableau** to determine environmental, temporal, and human accident root causes.
